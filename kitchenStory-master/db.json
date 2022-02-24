@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "email": "p@q.com",
+      "password": "$2a$10$Wzekrza.mGPKK8Ih9kZmwOclFwZvVRPXup1mkhwGWwZck8wqNRew2",
+      "id": 1
+    }
+  ],
+  "events": [
+    {
+      "id": 1604156565097,
+      "title": "Arab Dates",
+      "description": "Authentic Dates from Saudi....",
+      "capacity": 100,
+      "region": "Delhi",
+      "imgUrl": "https://picsum.photos/id/231/200/200"
+    },
+    {
+      "id": 1604156685644,
+      "title": "Food Item 1",
+      "description": "Some Description content",
+      "capacity": 1000,
+      "region": "New Delhi, Mumbai",
+      "imgUrl": "https://picsum.photos/id/435/200/200"
+    },
+    {
+      "id": 1604156739591,
+      "title": "Food Item 2",
+      "description": "Some Description content",
+      "capacity": 7649,
+      "region": "Delhi, Kolkata, Mumbai",
+      "imgUrl": "https://picsum.photos/id/541/200/200"
+    },
+    {
+      "id": 1604156765021,
+      "title": "Food Item 3",
+      "description": "Some Description content",
+      "capacity": 700,
+      "region": "Mumbai",
+      "imgUrl": "https://picsum.photos/id/259/200/200"
+    }
+  ]
+}
